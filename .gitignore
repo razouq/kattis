@@ -1,0 +1,7 @@
+/.vscode/
+/.cph/
+.editorconfig
+*.exe
+*.out
+*.dSYM/
+*.bin
