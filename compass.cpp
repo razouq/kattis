@@ -33,7 +33,7 @@ int main() {
   int n2;
   cin >> n1;
   cin >> n2;
-
+ 
   int clockWise = -1 * (n1 - n2 + 360) % 360;
   int counterClockWise =  (n2 - n1 + 360) % 360;
   if (abs(counterClockWise) < abs(clockWise)) {
