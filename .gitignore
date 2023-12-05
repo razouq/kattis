@@ -5,3 +5,4 @@
 *.out
 *.dSYM/
 *.bin
+.DS_Store
